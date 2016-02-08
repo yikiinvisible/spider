@@ -1,3 +1,7 @@
+#development environment
+        mac osx
+        python 2.7
+
 # baidu baike spider
         spider.py  you can use it to craw 100 html in "http://baike.baidu.com/view/362944.htm?fromtitle=DNF&fromid=10541&type=syn"
 
